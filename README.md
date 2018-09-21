@@ -10,7 +10,7 @@ Cuttlefish is a hierarchical SDN controller framework that adaptively offloads c
 ### Publications
 - Rinku Shah, Mythili Vutukuru, and Purushottam Kulkarni. 2017. Devolve-Redeem: Hierarchical SDN Controllers with Adaptive Offloading. In Proceedings of the First Asia-Pacific Workshop on Networking (APNet'17). ACM, New York, NY, USA, 8-14. DOI: https://doi.org/10.1145/3106989.3107001
 
-- Rinku Shah, Mythili Vutukuru, and Purushottam Kulkarni. 2018. Cuttlefish: Hierarchical SDN Controllers with Adaptive Offloading. In Proceedings of the International Conference of Network Protocols(ICNP).
+- Rinku Shah, Mythili Vutukuru, and Purushottam Kulkarni. 2018. Cuttlefish: Hierarchical SDN Controllers with Adaptive Offloading. In Proceedings of the International Conference of Network Protocols (ICNP). 
 
 ### Authors
 * [Rinku Shah](https://www.cse.iitb.ac.in/~rinku/), PhD student, Dept. of Computer Science and Engineering, IIT Bombay.
